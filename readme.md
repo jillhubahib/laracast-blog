@@ -2,7 +2,7 @@ Followed tutorial from Jeffrey Way's [Laravel 5.4 From Scratch](https://laracast
 
 ### Setup
 
-- Copy or rename `.env.example` file to `.env` then provide your database credentials.
+- Copy or rename `.env.example` file to `.env` then modify the file with needed credentials.
 
 - Install necessary dependencies
 ```
